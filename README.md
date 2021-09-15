@@ -7,7 +7,7 @@ Asos scraper is a simple web application that can run on your computer, it's use
 <br>
 <ul>
   <li>product name</li>
-  <li>product original price</li>
+  <li>product original price(before sales)</li>
   <li>product current price</li>
   <li>product url in asos website</li>
   
@@ -27,7 +27,7 @@ You will get a simple page with 3 inputs:
 <ul>
   <li>product name : like shoes, shirts,...) </li>
   <li>Gender : choose the product for men or women or unisex </li>
-  <li>number of pages : the number of pages to be collected from yelp website</li>
+  <li>number of pages : the number of pages to be collected from asos website</li>
 </ul>
 
 <br>
