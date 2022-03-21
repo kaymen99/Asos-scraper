@@ -21,13 +21,13 @@ Asos scraper is a simple web application that can run on your computer, it's use
 
 <b>Install the required libraries: </b>
 
-```pip install selenium pandas parsel Flask```
+```pip install selenium pandas parsel flask```
 <br>
 
 Excute the command in the terminal/cmd : 
 
 ```
-    cd Asos-scraper
+    cd Asos-scraper/asos
     python app.py
 ```
 
