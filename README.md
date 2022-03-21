@@ -10,20 +10,28 @@ Asos scraper is a simple web application that can run on your computer, it's use
   <li>product original price(before sales)</li>
   <li>product current price</li>
   <li>product url in asos website</li>
-  
+
 </ul>
 <br>
-To use the web app you need to :
-<br>
-Install some libraries in your terminal/cmd: <h3>pip install selenium pandas parsel Flask</h3>
+<h3>How to run :</h3>
+
+<b>Clone this repo: </b>
+
+```pip install selenium pandas parsel Flask```
+
+<b>Install the required libraries: </b>
+
+```pip install selenium pandas parsel Flask```
 <br>
 
 Excute the command in the terminal/cmd : 
-<h3>cd asos</h3>
-<h3>python app.py</h3>
+
+```cd asos
+   python app.py
+```
 
 <br>
-You will get a simple page with 3 inputs:
+You will get a simple web page with 3 inputs:
 <ul>
   <li>product name : like shoes, shirts,...) </li>
   <li>Gender : choose the product for men or women or unisex </li>
