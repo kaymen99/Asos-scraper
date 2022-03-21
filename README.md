@@ -26,11 +26,11 @@ Asos scraper is a simple web application that can run on your computer, it's use
 
 Excute the command in the terminal/cmd : 
 
-```
-    cd Asos-scraper/asos
-    python app.py
-```
+```cd Asos-scraper/asos```
 
+And then: 
+
+```python app.py```
 
 <br>
 You will get a simple web page with 3 inputs:
