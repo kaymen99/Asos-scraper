@@ -17,7 +17,7 @@ Asos scraper is a simple web application that can run on your computer, it's use
 
 <b>Clone this repo: </b>
 
-```pip install selenium pandas parsel Flask```
+```git clone https://github.com/Aymen1001/Asos-scraper.git```
 
 <b>Install the required libraries: </b>
 
