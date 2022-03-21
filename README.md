@@ -12,7 +12,7 @@ Asos scraper is a simple web application that can run on your computer, it's use
   <li>product url in asos website</li>
 
 </ul>
-<br>
+
 <h3>How to run :</h3>
 
 <b>Clone this repo: </b>
